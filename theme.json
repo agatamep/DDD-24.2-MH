@@ -1,0 +1,151 @@
+{
+  "global": {
+    "Clara Guedes": {
+      "value": "#000",
+      "type": "color"
+    }
+  },
+  "Tokens Primitivos/Mode 1": {
+    "color": {
+      "0": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "10": {
+        "value": "#1a1a1a",
+        "type": "color"
+      },
+      "20": {
+        "value": "#333333",
+        "type": "color"
+      },
+      "30": {
+        "value": "#4d4d4d",
+        "type": "color"
+      },
+      "40": {
+        "value": "#666666",
+        "type": "color"
+      },
+      "50": {
+        "value": "#808080",
+        "type": "color"
+      },
+      "60": {
+        "value": "#999999",
+        "type": "color"
+      },
+      "70": {
+        "value": "#b2b2b2",
+        "type": "color"
+      },
+      "80": {
+        "value": "#cccccc",
+        "type": "color"
+      },
+      "90": {
+        "value": "#e5e5e5",
+        "type": "color"
+      },
+      "100": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    },
+    "size": {
+      "x1": {
+        "value": "4px",
+        "type": "dimension"
+      },
+      "x2": {
+        "value": "8px",
+        "type": "dimension"
+      },
+      "x3": {
+        "value": "12px",
+        "type": "dimension"
+      },
+      "x4": {
+        "value": "16px",
+        "type": "dimension"
+      },
+      "x5": {
+        "value": "20px",
+        "type": "dimension"
+      },
+      "x6": {
+        "value": "24px",
+        "type": "dimension"
+      },
+      "x7": {
+        "value": "28px",
+        "type": "dimension"
+      },
+      "x8": {
+        "value": "32px",
+        "type": "dimension"
+      },
+      "x9": {
+        "value": "36px",
+        "type": "dimension"
+      },
+      "x10": {
+        "value": "40px",
+        "type": "dimension"
+      },
+      "%2": {
+        "value": "2px",
+        "type": "dimension"
+      },
+      "%4": {
+        "value": "1px",
+        "type": "dimension"
+      }
+    }
+  },
+  "Tokens Semanticos/Mode 1": {
+    "color": {
+      "text": {
+        "primary": {
+          "value": "{color.10}",
+          "type": "color"
+        },
+        "secundary": {
+          "value": "{color.20}",
+          "type": "color"
+        },
+        "disable": {
+          "value": "{color.30}",
+          "type": "color"
+        },
+        "contrast": {
+          "value": "{color.100}",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "Typography/Font Family": {
+    "font": {
+      "family": {
+        "Display": {
+          "value": "Unbounded",
+          "type": "text"
+        },
+        "Body": {
+          "value": "Inter",
+          "type": "text"
+        }
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global",
+      "Tokens Primitivos/Mode 1",
+      "Tokens Semanticos/Mode 1",
+      "Typography/Font Family"
+    ]
+  }
+}
